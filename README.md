@@ -1,6 +1,5 @@
 Pandas-Basics-Titanic-Dataset-Exploration.
-Pandas Basics and Titanic Dataset Exploration.
- Day 3 – Pandas Basics & Titanic Dataset Exploration 
+Day 3 – Pandas Basics & Titanic Dataset Exploration 
 
 Σε αυτό το project εξερευνώ το διάσημο Titanic dataset με χρήση της βιβλιοθήκης pandas.
 
